@@ -1,0 +1,20 @@
+id_mobil,nama_mobil,merek_mobil,tipe_mobil,transmisi,jumlah_penumpang,harga_dasar,nomor_bpkb,status
+M001,Suzuki Ertiga,Suzuki,MPV,Manual,7,300000,BPKB000001,Disewa
+M002,Daihatsu Xenia,Daihatsu,MPV,Manual,7,280000,BPKB000002,Rusak
+M003,Suzuki Ertiga,Suzuki,MPV,Manual,7,300000,BPKB000003,Rusak
+M004,Suzuki Ertiga,Suzuki,MPV,Manual,7,300000,BPKB000004,Tersedia
+M005,Toyota Fortuner,Toyota,SUV,Automatic,7,500000,BPKB000005,Rusak
+M006,Suzuki Ertiga,Suzuki,MPV,Manual,7,300000,BPKB000006,Rusak
+M007,Toyota Fortuner,Toyota,SUV,Automatic,7,500000,BPKB000007,Tersedia
+M008,Daihatsu Xenia,Daihatsu,MPV,Manual,7,280000,BPKB000008,Disewa
+M009,Suzuki Ertiga,Suzuki,MPV,Manual,7,300000,BPKB000009,Tersedia
+M010,Daihatsu Xenia,Daihatsu,MPV,Manual,7,280000,BPKB000010,Tersedia
+M011,Toyota Fortuner,Toyota,SUV,Automatic,7,500000,BPKB000011,Tersedia
+M012,Honda Jazz,Honda,Hatchback,Automatic,5,340000,BPKB000012,Tersedia
+M013,Toyota Fortuner,Toyota,SUV,Automatic,7,500000,BPKB000013,Disewa
+M014,Daihatsu Xenia,Daihatsu,MPV,Manual,7,280000,BPKB000014,Rusak
+M015,Honda CR-V,Honda,SUV,Automatic,5,450000,BPKB000015,Rusak
+M016,Honda Jazz,Honda,Hatchback,Automatic,5,340000,BPKB000016,Rusak
+M017,Toyota Fortuner,Toyota,SUV,Automatic,7,500000,BPKB000017,Tersedia
+M018,Suzuki Ertiga,Suzuki,MPV,Manual,7,300000,BPKB000018,Tersedia
+M019,Toyota Fortuner,Toyota,SUV,Automatic,7,500000,BPKB000019,Rusak
