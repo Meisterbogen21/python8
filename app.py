@@ -3,8 +3,8 @@ import pandas as pd
 import streamlit as st
 
 # Load dataset dari file CSV
-mobil_df = pd.read_csv('/mnt/data/mobil_data_spesifik.csv')
-penyewa_df = pd.read_csv('/mnt/data/penyewa_data_spesifik.csv')
+mobil_df = pd.read_csv('https://raw.githubusercontent.com/Meisterbogen21/python8/refs/heads/main/mobil_data_spesifik.csv')
+penyewa_df = pd.read_csv('https://raw.githubusercontent.com/Meisterbogen21/python8/refs/heads/main/penyewa_data_spesifik.csv')
 
 # Fungsi untuk menambahkan penyewa baru
 def tambah_penyewa(id_penyewa, nama_penyewa, nomor_ktp, nomor_hp, nomor_sim, id_mobil, durasi):
